@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "News 1: GLP-1 trial update",
+    "source": "Pharmcube",
+    "publishDate": "2026-03-09",
+    "aiTags": ["clinical", "metabolic"],
+    "aiConfidence": 0.87,
+    "aiExtracted": {
+      "drugs": [
+        {
+          "name": "Semaglutide",
+          "aliases": ["SEMA"],
+          "target": "GLP-1R",
+          "mechanism": "GLP-1 receptor agonist",
+          "company": "Novo Nordisk"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "News 2: PD-1 combo approval",
+    "source": "DXY",
+    "publishDate": "2026-03-08",
+    "aiTags": ["approval", "oncology"],
+    "aiConfidence": 0.81,
+    "aiExtracted": {
+      "drugs": []
+    }
+  },
+  {
+    "id": 3,
+    "title": "News 3: Biotech financing event",
+    "source": "Yaozh",
+    "publishDate": "2026-03-07",
+    "aiTags": ["financing", "biotech"],
+    "aiConfidence": 0.76,
+    "aiExtracted": {
+      "drugs": []
+    }
+  }
+]
